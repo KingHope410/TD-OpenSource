@@ -23,7 +23,7 @@ Here are also some algorithm implementation examples:
 
 - [BoidSimulation](BoidSimulation/README.md)
 - [Quadtree](Quadtree/README.md)
-- [SlimeSimulation](SliMESimulation/README.md)
+- [SlimeSimulation](SlimeSimulation/README.md)
 
 Ragarding the power of shader (glsl in TouchDesigner), there are some examples:
 
